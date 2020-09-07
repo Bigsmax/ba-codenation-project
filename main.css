@@ -1,0 +1,344 @@
+h1 {
+    color: whitesmoke;
+    font-size: 70px;
+    text-align: center;
+    margin-block-start: -5%;
+    margin-block-end: -5%;
+    margin-top: auto;
+}
+h2 { 
+    color: yellowgreen;
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    color: rgb(187, 153, 153);
+    font-size: 100%;
+    text-align: center;
+}
+
+h4{
+    color: yellowgreen;
+    font-size: 40px;
+    text-align: center;
+}
+
+h5{
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+}
+
+h6{
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: left;
+}
+
+p{
+    color: white;
+    font-size: 15px;
+    text-align: left;
+}
+
+p{
+    padding: 20px;
+    padding-top: 9px;
+}
+
+body{ 
+    height: 8%;
+    font-family: 'Martel Sans', sans-serif;
+    background-image: url("img/technology.png");
+}
+
+.font1{
+
+    font-family: 'Kanit', sans-serif;
+}
+.font2{
+    font-family: 'Open Sans', sans-serif
+}
+.font3{
+
+    font-family: 'Oswald', sans-serif;
+}
+.font4{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: white;
+    text-transform: capitalize;
+}
+
+.div1 {
+  width: 80%;
+  height: auto;
+  border: 2.5px dotted rgb(141, 141, 145);
+  background-color: rgb(192, 192, 192, 0.1);
+  box-align: center;
+  margin-left: 110px;
+  margin-right: 110px;
+}
+
+.div2 {
+    width: 80%;
+    height: 135px;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color:  rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.div3 {
+    width: 80%;
+    height: 150px;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div4 {
+      width: 80%;
+      height: 375px;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1); 
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    
+.div5 {
+    width: 80%;
+    height: 240px;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div6 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1);
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div7 {
+      width: 80%;
+      height: auto;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1);
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    
+    .div8 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div9 {
+      width: 80%;
+      height: auto;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1); 
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    
+    .div10 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1);
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div11 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div12 {
+      width: 80%;
+      height: auto;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1); 
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    
+    .div13 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+  .div14 {
+      width: 80%;
+      height: auto;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1); 
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+  }
+  .div15 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1); 
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+  .div16 {
+      width: 80%;
+      height: auto;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1);
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+
+  .div17 {
+    width: 80%;
+    height: auto;
+    border: 2.5px dotted rgb(141, 141, 145);
+    background-color: rgb(192, 192, 192, 0.1);
+    box-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div18 {
+      width: 80%;
+      height: auto;
+      border: 2.5px dotted rgb(141, 141, 145);
+      background-color: rgb(192, 192, 192, 0.1);
+      box-align: center;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    
+    .div19 {
+        width: 80%;
+        height: auto;
+        border: 2.5px dotted rgb(141, 141, 145);
+        background-color: rgb(192, 192, 192, 0.1); 
+        box-align: center;
+        margin-left: 100px;
+        margin-right: 100px;
+        
+      }
+      .div20 {
+          width: 80%;
+          height: auto;
+          border: 2.5px dotted rgb(141, 141, 145);
+          background-color: rgb(192, 192, 192, 0.1);
+          box-align: center;
+          margin-left: 100px;
+          margin-right: 100px;
+        }
+    
+      .div21 {
+        width: 80%;
+        height: auto;
+        border: 2.5px dotted rgb(141, 141, 145);
+        background-color: rgb(192, 192, 192, 0.1);
+        box-align: center;
+        margin-left: 100px;
+        margin-right: 100px;
+      }
+
+      .div22 {
+          width: 80%;
+          height: auto;
+          border: 2.5px dotted rgb(141, 141, 145);
+          background-color: rgb(192, 192, 192, 0.1);
+          box-align: center;
+          margin-left: 100px;
+          margin-right: 100px;
+        }
+
+.menu a{
+    color:yellowgreen;
+    block-size: 17px;
+    float: none;
+    font-size: 14px;
+    margin: 9px;
+    padding: 4px;
+    overflow: hidden;
+    background-color: transparent;
+    border: none;
+    text-decoration-line: none;
+}
+
+div.transparentbox {
+    opacity: 0.8;
+    margin: 30px;
+    border: 2px dotted silver;
+    background-color: rgba(120, 118, 118, 0.1);
+    transform: translate(none);
+    list-style-position: inside;
+}
+ div.transparentbox p {
+    margin: 5px;
+    color:white;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    transform: translate(none);
+    list-style-position: inside;
+}
+ 
+ div.background {
+    border: 2px dotted black;
+    background: rgba(142, 139, 139, 0.2);
+    width: 700px;
+    transform: translate(39%,-5%);
+    list-style-position: inside;
+}
+
+ .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    padding-top: 10px;
+    text-orientation: sideways;
+}
+a{
+    color: white;
+}
